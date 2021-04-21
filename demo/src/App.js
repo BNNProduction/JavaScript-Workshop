@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import User from './components/User';
-
+import Clock from './components/Clock';
 function App() {
   return (
     <div className="App">
@@ -12,6 +12,12 @@ function App() {
         </p>
         <User name="01"/>
         <User name="02"/>
+       <h1> <Clock /></h1>
+       <h1> <Clock /></h1>
+       <h1> <Clock /></h1>
+       <h1> <Clock /></h1>
+       <h1> <Clock /></h1>
+       
         <a
           className="App-link"
           href="https://reactjs.org"
