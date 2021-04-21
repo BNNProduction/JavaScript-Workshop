@@ -11,7 +11,8 @@ class Form extends Component{
         this.setState({data: event.target.value});
     }
     sayHi(){
-        this.setState({message: "Hello "+this.state.data});
+        //this.setState({message: "Hello "+this.state.data});
+        this.props.onSayHi(this.state.data);
     }
 
     render(){
