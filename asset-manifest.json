@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/JavaScript-Workshop/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/JavaScript-Workshop/static/js/main.66b4fb34.chunk.js",
+    "main.js.map": "/JavaScript-Workshop/static/js/main.66b4fb34.chunk.js.map",
+    "runtime-main.js": "/JavaScript-Workshop/static/js/runtime-main.710c6ff0.js",
+    "runtime-main.js.map": "/JavaScript-Workshop/static/js/runtime-main.710c6ff0.js.map",
+    "static/js/2.ed0a38ed.chunk.js": "/JavaScript-Workshop/static/js/2.ed0a38ed.chunk.js",
+    "static/js/2.ed0a38ed.chunk.js.map": "/JavaScript-Workshop/static/js/2.ed0a38ed.chunk.js.map",
+    "static/js/3.047b4e0b.chunk.js": "/JavaScript-Workshop/static/js/3.047b4e0b.chunk.js",
+    "static/js/3.047b4e0b.chunk.js.map": "/JavaScript-Workshop/static/js/3.047b4e0b.chunk.js.map",
+    "index.html": "/JavaScript-Workshop/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/JavaScript-Workshop/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.ed0a38ed.chunk.js.LICENSE.txt": "/JavaScript-Workshop/static/js/2.ed0a38ed.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/JavaScript-Workshop/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.710c6ff0.js",
+    "static/js/2.ed0a38ed.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.66b4fb34.chunk.js"
+  ]
+}
