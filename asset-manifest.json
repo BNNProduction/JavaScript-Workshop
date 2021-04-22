@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/JavaScript-Workshop/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/JavaScript-Workshop/static/js/main.57cc1f3a.chunk.js",
-    "main.js.map": "/JavaScript-Workshop/static/js/main.57cc1f3a.chunk.js.map",
-    "runtime-main.js": "/JavaScript-Workshop/static/js/runtime-main.df8af1c5.js",
-    "runtime-main.js.map": "/JavaScript-Workshop/static/js/runtime-main.df8af1c5.js.map",
-    "static/js/2.265c0379.chunk.js": "/JavaScript-Workshop/static/js/2.265c0379.chunk.js",
-    "static/js/2.265c0379.chunk.js.map": "/JavaScript-Workshop/static/js/2.265c0379.chunk.js.map",
-    "static/js/3.e71ace30.chunk.js": "/JavaScript-Workshop/static/js/3.e71ace30.chunk.js",
-    "static/js/3.e71ace30.chunk.js.map": "/JavaScript-Workshop/static/js/3.e71ace30.chunk.js.map",
+    "main.css": "/JavaScript-Workshop/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/JavaScript-Workshop/static/js/main.c5b381e7.chunk.js",
+    "main.js.map": "/JavaScript-Workshop/static/js/main.c5b381e7.chunk.js.map",
+    "runtime-main.js": "/JavaScript-Workshop/static/js/runtime-main.cb555dcc.js",
+    "runtime-main.js.map": "/JavaScript-Workshop/static/js/runtime-main.cb555dcc.js.map",
+    "static/js/2.90d1eaf7.chunk.js": "/JavaScript-Workshop/static/js/2.90d1eaf7.chunk.js",
+    "static/js/2.90d1eaf7.chunk.js.map": "/JavaScript-Workshop/static/js/2.90d1eaf7.chunk.js.map",
+    "static/js/3.34c64c36.chunk.js": "/JavaScript-Workshop/static/js/3.34c64c36.chunk.js",
+    "static/js/3.34c64c36.chunk.js.map": "/JavaScript-Workshop/static/js/3.34c64c36.chunk.js.map",
     "index.html": "/JavaScript-Workshop/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/JavaScript-Workshop/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.265c0379.chunk.js.LICENSE.txt": "/JavaScript-Workshop/static/js/2.265c0379.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/JavaScript-Workshop/static/media/logo.6ce24c58.svg"
+    "static/css/main.6dea0f05.chunk.css.map": "/JavaScript-Workshop/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.90d1eaf7.chunk.js.LICENSE.txt": "/JavaScript-Workshop/static/js/2.90d1eaf7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.df8af1c5.js",
-    "static/js/2.265c0379.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.57cc1f3a.chunk.js"
+    "static/js/runtime-main.cb555dcc.js",
+    "static/js/2.90d1eaf7.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.c5b381e7.chunk.js"
   ]
 }
